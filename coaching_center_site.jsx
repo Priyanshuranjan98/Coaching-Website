@@ -65,7 +65,7 @@ function CoachingCenter() {
           />
           <meta
             name="keywords"
-            content="Coaching for 10th, Online Coaching Classes, Best Coaching Center, Bright Future Coaching, Student Achievements, Tutor Mr. Sharma"
+            content="Coaching for 10th, Online Coaching Classes, Best Coaching Center, Bright Future Coaching, Student Achievements, Tutor Mr. Govind Roy"
           />
           <meta name="author" content="Bright Future Coaching" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -95,7 +95,7 @@ function CoachingCenter() {
               Join our coaching classes designed for students up to 10th standard. We provide <b>online and offline learning</b> options to help you excel in academics.
             </p>
             <a
-              href="https://wa.me/919876543210"
+              href="https://wa.me/917759074059"
               target="_blank"
               rel="noopener noreferrer"
               className={`mt-6 md:mt-8 inline-block ${buttonClasses}`}
@@ -119,7 +119,7 @@ function CoachingCenter() {
             Attend live interactive online classes from the comfort of your home. Get access to study material, practice tests, and doubt-solving sessions.
           </p>
           <a
-            href="https://wa.me/919876543210"
+            href="https://wa.me/917759074059"
             target="_blank"
             rel="noopener noreferrer"
             className={`mt-6 md:mt-8 inline-block ${buttonClasses}`}
@@ -184,17 +184,17 @@ function CoachingCenter() {
         <section className="py-16 md:py-20 px-4 md:px-6 text-center bg-gradient-to-r from-orange-600 to-pink-600">
           <h3 className="text-2xl md:text-3xl font-bold mb-4 md:mb-6">Meet Our Tutor</h3>
           <img
-            src="https://randomuser.me/api/portraits/men/32.jpg"
-            alt="Tutor Mr. Sharma - Bright Future Coaching"
+            src="./Govind_roy.jpg"
+            alt="Tutor Mr. Govind Roy - Bright Future Coaching"
             loading="lazy"
             className="mx-auto rounded-full mb-4 md:mb-6 shadow-xl border-2 md:border-4 border-yellow-400 w-28 h-28 md:w-36 md:h-36 object-cover"
           />
-          <h4 className="text-xl md:text-2xl font-semibold">Mr. Sharma</h4>
+          <h4 className="text-xl md:text-2xl font-semibold">Mr. Govind Roy</h4>
           <p className="mb-4 md:mb-6 opacity-90 text-sm md:text-base">
             Experienced educator with 10+ years of teaching students up to 10th standard.
           </p>
           <p className="text-sm md:text-base">
-            📞 Call/WhatsApp: <span className="font-semibold">+91 98765 43210</span>
+            📞 Call/WhatsApp: <span className="font-semibold">+91 7759074059</span>
           </p>
         </section>
 
@@ -202,7 +202,7 @@ function CoachingCenter() {
         <section className="py-12 md:py-16 px-4 md:px-6 text-center bg-gradient-to-r from-teal-600 to-green-600">
           <h3 className="text-2xl md:text-3xl font-bold mb-4 md:mb-6">Contact Us</h3>
           <p className="mb-2 md:mb-3 text-sm md:text-base">
-            📞 Call/WhatsApp: <span className="font-semibold">+91 98765 43210</span>
+            📞 Call/WhatsApp: <span className="font-semibold">+91 7759074059</span>
           </p>
           <p className="text-sm md:text-base">📍 Location: Near City Center, YourTown</p>
         </section>
